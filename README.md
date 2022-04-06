@@ -1,2 +1,2 @@
 # kurdstancode
-Code By py
+Code By python
