@@ -1,0 +1,2 @@
+# kurdstancode
+print(" Kurdstan ")
