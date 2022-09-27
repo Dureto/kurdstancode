@@ -1,2 +1,2 @@
 # kurdstancode
-print(" Kurdstan ")
+print(" jehan  ")
