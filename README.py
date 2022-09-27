@@ -1,2 +1,3 @@
 # kurdstancode
-print(" jehan  ")
+
+print("wata chon brezm ")
